@@ -1,0 +1,89 @@
+#separator:tab
+#html:true
+Enunciare e dimostrare la disuguaglianza di Markov.	
+Enunciare e dimostrare la disuguaglianza di Jensen.	
+Descrivere le proprietà di una v.a. Bernoulliana.	
+Descrivere le proprietà di una v.a. Binomiale.	
+Descrivere le proprietà di una v.a. Geometrica.	
+Descrivere le proprietà di una v.a. Binomiale negativa.	
+Come si può passare da una v.a. binomiale ad una v.a. di Poisson?	
+Descrivere le proprietà di una v.a. di Poisson.	
+Descrivere le proprietà di una v.a. Ipergeometrica.	
+Descrivere le proprietà di una v.a. Uniforme discreta.	
+Descrivere le proprietà di una v.a. Uniforme continua.	
+Come si deriva la v.a. Esponenziale?	
+Descrivere le proprietà di una v.a. Esponenziale.	
+Come si definisce una v.a. Gamma?	
+Descrivere le proprietà di una v.a. Gamma.	
+Come si ricava la funzione di densità di una gaussiana standard?	
+Ricavare la funzione generatrice dei momenti di una gaussiana .	
+Enunciare e dimostrare la disuguaglianza di Cauchy-Schwarz.	
+Definire le proprietà di una v.a. normale bivariata.	
+Cosa si può dire della densità della trasformazione di una v.a. Y=g(X)?	
+Cosa si può dire della media e varianza di una combinazione lineare di v.a.?	
+Cosa si può dire della covarianza tra due combinazioni lineari di v.a. scorrelate?	
+Cosa si può dire della funzione generatrice dei momenti di una combinazione lineare di v.a. indipendenti?	
+Cosa si può dire della somma di v.a. Gamma indipendenti con lo stesso parametro lambda? E se fossero dipendenti?	
+Cosa si può dire della combinazione lineare di v.a. Normali?	
+Enunciare e dimostrare la disuguaglianza di Chebychev?	
+Cosa afferma la Legge Debole dei Grandi Numeri? Che conseguenze ha?	
+Enunciare e dimostrare il Teorema del Limite Centrale.	
+Che conseguenze ha il Teorema del Limite Centrale?	
+Cosa si può dire della media e varianza della media campionaria?	
+Cosa si può dire della media e della varianza della varianza campionaria?	
+Che distribuzione segue la somma di quadrati di normali standard?	
+Dato un campione proveniente da una normale, cosa si può affermare sulla media campionaria e varianza campionaria?	
+Che distribuzione segue una statistica d'ordine alpha?	
+Cosa si può affermare sul valor medio della verosimiglianza nel vero parametro?	
+Quant'è il valor medio della funzione di score?	
+Che rapporto c'è tra l'informazione attesa di Fisher e la funzione di score?	
+In cosa consiste il limite inferiore di Cramér-Rao?	
+Cosa afferma il lemma di Neyman-Pearson?	
+Cos'è una variabile aleatoria?	
+Di che proprietà godono le funzioni di probabilità? E di densità?	
+Cos'è la funzione di ripartizione?	
+Che differenze ci sono tra una v.a. continua ed una discreta?	
+Come si lega la funzione di densità alla funzione di ripartizione?	
+Di che proprietà gode la funzione di ripartizione?	
+Com'è definito il valore atteso di una v.a.? Che informazioni fornisce su di essa?	
+Com'è definita e che informazioni fornisce la varianza di una v.a.?	
+Cosa sono i quantili e percentili di una distribuzione?	
+Com'è definito il momento r-esimo di una v.a.?	
+Com'è definita la funzione generatrice dei momenti di una v.a.?	
+Com'è definita la funzione generatrice dei cumulanti? E quella dei momenti fattoriali?	
+Cos'è la funzione caratteristica?	
+Com'è definita una v.a. doppia?	
+Com'è deifnita la funzione di probabilità condizionata?	
+Com'è definita la covarianza di una v.a. doppia?	
+Com'è definito il coefficiente di correlazione di Bravais-Pearson?	
+Cosa si può dire di due v.a. normali scorrelata?	
+Com'è definita la proprietà per cui somma di v.a. i.i.d. appartiene ancora alla stessa famiglia? Per che famiglie si può affermare?	
+Che tipologie di convergenza si considerano per successioni di v.a.?	
+Come si definisce il processo statistico per cui si cerca di trarre conclusioni sulla popolazione da un insieme di dati estratti dalla popolazione stessa? Su cosa si basa?	
+Quali sono le principali tecniche di inferenza statistica?	
+Cos'è una statistica? Fornire alcuni esempi.	
+Come sono definiti i momenti campionari?	
+Cos'è una statistica d'ordine?	
+Com'è definita la funzione di ripartizione empirica?	
+Com'è definita la funzione di verosimiglianza? Che caratteristiche ha?	
+Cosa fare se si trovano due stime di massima verosimiglianza? Che conclusioni si possono trarre?	
+Cos'è la funzione di score?	
+Quando un modello si dice regolare?	
+Com'è definita l'informazione attesa di Fisher?&nbsp;	
+Cos'è uno stimatore?	
+Come si misura la qualità di uno stimatore?	
+Quando uno stimatore si dice consistente?	
+Cosa si può dire delle distribuzioni asintotiche degli stimatori?	
+Come si ottiene la stima di massima verosimiglianza?	
+Come si può approsimare la varianza della trasformazione di uno stimatore di massima verosimiglianza?	
+Che metodi si possono usare per costruire stimatori?	
+Che metodo si può usare per costruire un intervallo di confidenza?	
+Come si interpretano gli intervalli di confidenza?	
+Come si possono ottenere intervalli di confidenza approssimati?	
+In cosa consiste la verifica d'ipotesi?	
+Come funziona un test di significatività?	
+Come si lega la stima intervallare con la verifica d'ipotesi?	
+In cosa consiste l'approccio di Neyman-Pearson?	
+In cosa consiste e come funziona il test di conformità del chi-quadro?	
+In cosa consiste il test di adattamento di Kolmogorov-Smirnov?	
+Come si può verificare l'indipendenza tra due caratteristiche di una popolazione?	
